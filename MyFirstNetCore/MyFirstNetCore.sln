@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstNetCore", "MyFirstNetCore\MyFirstNetCore.csproj", "{5735CF36-1B13-4F12-BCB7-254065040855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5735CF36-1B13-4F12-BCB7-254065040855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5735CF36-1B13-4F12-BCB7-254065040855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5735CF36-1B13-4F12-BCB7-254065040855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5735CF36-1B13-4F12-BCB7-254065040855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F263053F-210F-46AB-BEB2-97EEDBBF6186}
+	EndGlobalSection
+EndGlobal
